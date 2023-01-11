@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **time-series forecasting using LSTM Neural Networks**
 
-- 💬 Ask me about **Machine Leanring**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me: **austinwolff1997@gmail.com**
 
