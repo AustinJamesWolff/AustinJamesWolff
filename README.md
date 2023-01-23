@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin Wolff</h1>
 <h3 align="center">Your Local Real Estate Data Scientist</h3>
 
-- 🔭 I’m currently working on **using ML to digitize and categorize all zoning data in the United States**
+- 🔭 I’m currently working on **using ML to help select the best real estate markets to invest in**
 
 - 🌱 I’m currently learning **time-series forecasting using LSTM Neural Networks**
 
