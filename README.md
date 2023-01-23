@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **time-series forecasting using LSTM Neural Networks**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Real Estate Data Science**
 
 - 📫 How to reach me: **austinwolff1997@gmail.com**
 
