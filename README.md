@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **austinwolff1997@gmail.com**
 
-- ⚡ Fun fact: **I'm wrote and am currently producing a feature film!**
+- ⚡ Fun fact: **I'm a screenwriter and wrote a feature film that's currently being produced!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
