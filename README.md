@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **austinwolff1997@gmail.com**
 
-- ⚡ Fun fact: **I'm a screenwriter and wrote a feature film that's currently being produced!**
+- ⚡ Fun fact: **I wrote a movie! It's called _Wally Jackson and the Probability of Love and Car Accidents_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
